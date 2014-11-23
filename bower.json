@@ -1,0 +1,32 @@
+{
+  "name": "d3-ui",
+  "version": "1.0.0",
+  "homepage": "https://github.com/karmadude/d3-ui",
+  "authors": [
+    "Liji Jinaraj <karmadude@gmail.com>"
+  ],
+  "description": "Bootstrap UI components in D3",
+  "main": "d3-ui.js",
+  "keywords": [
+    "ui",
+    "d3",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    ".npmignore",
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": ">= 3.4.13",
+    "bootstrap": ">= 3.3.1"
+  }
+}
